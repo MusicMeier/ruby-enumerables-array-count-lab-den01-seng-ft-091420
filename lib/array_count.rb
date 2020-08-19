@@ -4,7 +4,7 @@ def count_strings(array)
 if array[i] = String 
 i += 1
 end
-array.String
+Total
   end
     
 
