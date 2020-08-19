@@ -3,6 +3,7 @@ def count_strings(array)
   index = 0
 array.count do |i|
   string[i]
+  i += 1
 end
   end
     
