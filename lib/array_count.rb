@@ -2,7 +2,7 @@ def count_strings(array)
   # Return the total number of strings in the provided array using the count enumerable
  i = 0
 if array[i] = String 
-total += 1
+i += 1
 end
 
   end
